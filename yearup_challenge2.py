@@ -8,6 +8,7 @@ from datetime import datetime
 
 TWEET_LOG_DIR_NAME = 'data/yearup_challenge/'
 
+#ChristineMai
 
 # EXAMPLE METRICS FUNCTION
 def get_weekday_metrics_for_all_tweets(tweet_data_list):
